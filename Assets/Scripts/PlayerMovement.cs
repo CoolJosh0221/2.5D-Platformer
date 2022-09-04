@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody rigidbodyComponent;
     private bool jumpKeyWasPressed;
     private float horizontalInput;
-    private Vector3 respawnPoint;
+    public static Vector3 respawnPoint;
     [SerializeField] private Transform groundCheckerTransform = null;
     [SerializeField] private LayerMask playerMask;
     [SerializeField] private GameObject fallDetector;
