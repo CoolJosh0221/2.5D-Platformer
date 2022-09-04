@@ -2,5 +2,5 @@ Library
 Temp
 .vscode
 .Logs
-./Fansom.sln
-./Assembly-CSharp.csproj
+Fansom.sln
+Assembly-CSharp.csproj
