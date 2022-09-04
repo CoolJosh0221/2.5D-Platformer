@@ -1,6 +1,6 @@
-Library
-Temp
-.vscode
-.Logs
+Library/
+Temp/
+.vscode/
+Logs/
 Fansom.sln
 Assembly-CSharp.csproj
