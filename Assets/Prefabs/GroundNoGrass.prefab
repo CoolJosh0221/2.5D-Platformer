@@ -22,7 +22,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2756549465576407076, guid: a55ebd36c40fa48d99dc802cacf284b4, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.023790352
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2756549465576407076, guid: a55ebd36c40fa48d99dc802cacf284b4, type: 3}
       propertyPath: m_LocalRotation.w
@@ -54,7 +54,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2756549465576407080, guid: a55ebd36c40fa48d99dc802cacf284b4, type: 3}
       propertyPath: m_Name
-      value: Ground (4)
+      value: GroundNoGrass
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:

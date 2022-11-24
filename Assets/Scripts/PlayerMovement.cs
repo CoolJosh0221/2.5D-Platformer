@@ -54,4 +54,13 @@ public class PlayerMovement : MonoBehaviour
         }
 
     }
+
+    private void OnCollisionEnter(Collider collision)
+    {
+        if (collision.gameObject.layer == 7)
+        {
+            transform.position = respawnPoint;
+        }
+
+    }
 }

@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 3964531176655758750}
   - component: {fileID: 2268800962282494367}
   - component: {fileID: 5745544513956028919}
-  m_Layer: 0
-  m_Name: Metal
+  m_Layer: 7
+  m_Name: Lava
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3e20736456a1548c99bd1820d0679295, type: 2}
+  - {fileID: 2100000, guid: d35a8f232911b4740b39e2615027e591, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
